@@ -21,3 +21,25 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+ ../../.DS_Store
+        ../../.gitignore
+        ../../Aufgaben/
+        ../../NEXTjs_neuefische_Event/
+        ../../React-and-Morty/
+        ../.DS_Store
+        ../redux-app Kopie/
+        ../../capstone-project/
+        ../../cgn-web-22-2/
+        ../../dorehami/
+        ../../dorehamiiiii/
+        ../../express-react-app/
+        ../../express-with-mongoose/
+        ../../first-RestAPI-Server/
+        ../../git-basics/
+        ../../personal-website/
+        ../../quiz-app/
+        ../../react-router/
+        ../../unit-test/
+        ../../web-event-slides-cgn-web-22-2/

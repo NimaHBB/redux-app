@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import { Counter } from './features/counter/Counter';
+import { ProductsList } from './features/fetch/productsList';
 import './App.css';
-
 function App() {
   return (
     <div className="App">
@@ -10,6 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
       </header>
+      <ProductsList />
     </div>
   );
 }
